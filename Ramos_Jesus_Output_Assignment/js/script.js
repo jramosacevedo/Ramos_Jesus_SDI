@@ -5,5 +5,5 @@ var livesInpuertorico = true; //Boolean Variable  States that Jesus Lives in Pue
 
 var howManykidsjesushas = 3; //Number Variable  Shows how Many Kids Jesus has
 
-var
+var wifeName = "Wanda" // String Variable Shows Jesus wife name
 
