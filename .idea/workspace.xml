@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026252e0-20d2-4ee9-b167-424e978ede1d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./index.html" afterPath="$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./js/script.js" afterPath="$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ramos_Jesus_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.04464286">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -68,8 +66,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="483" />
-    <option name="y" value="184" />
+    <option name="x" value="762" />
+    <option name="y" value="97" />
     <option name="width" value="998" />
     <option name="height" value="769" />
   </component>
@@ -215,7 +213,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="483" y="184" width="998" height="769" extended-state="0" />
+    <frame x="762" y="97" width="998" height="769" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -296,7 +294,7 @@
     <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.04464286">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding />
         </state>
       </provider>
