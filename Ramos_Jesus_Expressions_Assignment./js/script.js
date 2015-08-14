@@ -1,9 +1,9 @@
 // // Jesus Ramos Acevedo // Scalable Data Infrastructure // Term 02// Expressions Assignment
 
 //Variables
-var myResidenceCity;
-var MyResidenceState;
-var yearsLivingInState;
+var myResidenceCity;//City of residence
+var MyResidenceState;//State of residence
+var yearsLivingInState;//Years in state
 var usCitizen = true;
 
 // prompts
@@ -15,6 +15,6 @@ yearsLivingInstate = prompt("Years living there");
 yearsLivingInState = Number(yearsLivingInstate);// casts the input as number
 
 //outputs
-console.log("You live in " + myResidenceCity + " " + myResidenceState);
+console.log("You live in " + myResidenceCity + " " + myResidenceState);// State and city of residence output
 console.log("it is" + " " + usCitizen +" " + "that you are a US Citizen");
-console.log("You have been living there for " + (yearsLivingInState - 1) + " years more than me");
+console.log("You have been living there for " + (yearsLivingInState - 1) + " years more than me");//time that you lived there
