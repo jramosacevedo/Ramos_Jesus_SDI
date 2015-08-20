@@ -1,4 +1,4 @@
-// // Jesus Ramos Acevedo // Scalable Data Infrastructure // Term 02// Expressions Assignment
+// // Jesus Ramos Acevedo // Scalable Data Infrastructure // Term 02// Conditionals Assignment
 
 //Variables
 var myResidenceCity;//City of residence
