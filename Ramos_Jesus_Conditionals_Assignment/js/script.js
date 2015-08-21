@@ -25,5 +25,5 @@ userAge = Number(userAge);
 
 //outputs
 console.log("thank you"+" " + myName + " " + "for choosing Full sail Cinema");
-console.log("your are" + (2015 - userAge) + "years old");
-console.log("You have" + " " + (peopleInParty -1) + "in your party");
+console.log("your are" + " " + (2015 - userAge) + " " + "years old");
+console.log("You have" + " " + (peopleInParty -1) + " " + "extra people in your party");
