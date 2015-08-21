@@ -41,5 +41,5 @@ if((2015 - userAge) > rMovieAge ){
     console.log("You can only watch" + " " + gMovies + " " + "movies unless you have your parents with you" );
 
 }else{
-    console.log("Sorry You are not old enough to be here");
+    console.log("Sorry, You are not old enough to be here!");
 }
