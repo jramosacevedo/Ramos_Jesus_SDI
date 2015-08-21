@@ -24,13 +24,22 @@ userAge = Number(userAge);
 rMovies = Number(rMovies);
 gMovies = Number(gMovies);
 pG13Movies = Number (pG13Movies);
+pg13MovieAge = Number (pg13MovieAge)
+
+
+
 
 //outputs
 console.log("Thank you"+" " + myName + " " + "for choosing Full sail Cinema.");
 console.log("your are" + " " + (2015 - userAge) + " " + "years old.");
 console.log("You have" + " " + (peopleInParty -1) + " " + "extra people in your party.");
 if((2015 - userAge) > rMovieAge ){
-    console.log("Since you are older than 18 years, you can watch" + (rMovies + gMovies + pG13Movies) +
+    console.log("Since you are older than 18 years, you can watch" + " " + (rMovies + gMovies + pG13Movies) + " " +
     "movies");
 
+}else if((2015 - userAge) >= pg13MovieAge){
+    console.log("You can only watch" + " " + gMovies + " " + "movies unless you have your parents with you" );
+
+}else{
+    console.log("Sorry You are not old enough to be here");
 }
