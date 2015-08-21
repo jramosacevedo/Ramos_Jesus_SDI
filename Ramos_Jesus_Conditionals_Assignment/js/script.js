@@ -21,9 +21,16 @@ peopleInParty = prompt("How many people in party?");
 //Casts
 peopleInParty = Number(peopleInParty);// casts the input as number
 userAge = Number(userAge);
-
+rMovies = Number(rMovies);
+gMovies = Number(gMovies);
+pG13Movies = Number (pG13Movies);
 
 //outputs
-console.log("thank you"+" " + myName + " " + "for choosing Full sail Cinema");
-console.log("your are" + " " + (2015 - userAge) + " " + "years old");
-console.log("You have" + " " + (peopleInParty -1) + " " + "extra people in your party");
+console.log("Thank you"+" " + myName + " " + "for choosing Full sail Cinema.");
+console.log("your are" + " " + (2015 - userAge) + " " + "years old.");
+console.log("You have" + " " + (peopleInParty -1) + " " + "extra people in your party.");
+if((2015 - userAge) > rMovieAge ){
+    console.log("Since you are older than 18 years, you can watch" + (rMovies + gMovies + pG13Movies) +
+    "movies");
+
+}
