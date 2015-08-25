@@ -3,12 +3,12 @@
 var myRandom
 
 
-function randomNumGen() {
+function randomNumGen(max, min) {
 
     var randomNum = [];
 
     for (var i = 0; i < 6; i++) {
-        randomNum[i] = Math.random() * (53 - 1);
+        randomNum[i] = Math.random() * (max - min);
         randomNum[i] = Math.round(randomNum[i]);
 
     }
@@ -16,5 +16,5 @@ function randomNumGen() {
 
 }
 
-myRandom = randomNumGen();
+myRandom = randomNumGen(53, 1);
 console.log(" Here are your numbers." + myRandom);
