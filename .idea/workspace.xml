@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026252e0-20d2-4ee9-b167-424e978ede1d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/Index.html" afterPath="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/Index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ramos_Jesus_Functions_Assignment./js/script.js" afterPath="$PROJECT_DIR$/Ramos_Jesus_Functions_Assignment./js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ramos_Jesus_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +29,18 @@
         <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Functions_Assignment./js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.63084114">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Conditionals_Assignment/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,12 +62,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/js/script.js" />
-        <option value="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/Index.html" />
         <option value="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/js/Ramos_Jesus_Output_Assignment.js" />
         <option value="$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./index.html" />
         <option value="$PROJECT_DIR$/AssociatingJS/js/script.js" />
         <option value="$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./js/script.js" />
         <option value="$PROJECT_DIR$/Ramos_Jesus_Conditionals_Assignment/js/script.js" />
+        <option value="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/Index.html" />
+        <option value="$PROJECT_DIR$/test/Index.html" />
+        <option value="$PROJECT_DIR$/test/js/Ramos_Jesus_Output_Assignment.js" />
         <option value="$PROJECT_DIR$/Ramos_Jesus_Functions_Assignment./js/script.js" />
       </list>
     </option>
@@ -70,8 +82,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="197" />
-    <option name="y" value="229" />
+    <option name="x" value="62" />
+    <option name="y" value="124" />
     <option name="width" value="1240" />
     <option name="height" value="525" />
   </component>
@@ -148,6 +160,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramos_Jesus_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramos_Jesus_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramos_Jesus_Conditionals_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramos_Jesus_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramos_Jesus_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramos_Jesus_Conditionals_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -162,6 +206,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/js" />
       <recent name="$PROJECT_DIR$/Ramos_Jesus_Output_Assignment" />
     </key>
@@ -220,7 +265,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="197" y="229" width="1240" height="525" extended-state="0" />
+    <frame x="62" y="124" width="1240" height="525" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -342,13 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Expressions_Assignment./index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625">
@@ -374,16 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/js/Ramos_Jesus_Output_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.14018692">
           <caret line="4" column="85" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Conditionals_Assignment/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -396,13 +426,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Output_Assignment/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Conditionals_Assignment/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ramos_Jesus_Functions_Assignment./js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63084114">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>

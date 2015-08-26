@@ -1,6 +1,6 @@
 // // Jesus Ramos Acevedo // Scalable Data Infrastructure // Term 02// Functions Assignment
 //Variables
-var myRandom
+var lottoNumbers
 
 
 function randomNumGen(max, min) {
@@ -8,7 +8,7 @@ function randomNumGen(max, min) {
     var randomNum = [];
 
     for (var i = 0; i < 6; i++) {
-        randomNum[i] = Math.random() * (max - min);
+        randomNum[i] = Math.random() * (max - min +1) + min ;
         randomNum[i] = Math.round(randomNum[i]);
 
     }
@@ -16,5 +16,5 @@ function randomNumGen(max, min) {
 
 }
 
-myRandom = randomNumGen(53, 1);
-console.log(" Here are your numbers." + myRandom);
+lottoNumbers = randomNumGen(1, 53);
+console.log(" Here are your numbers." + lottoNumbers);
