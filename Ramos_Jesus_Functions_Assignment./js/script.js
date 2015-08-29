@@ -80,7 +80,7 @@ var lotteryresult = lotterycodeGenerator(n,field); //calling lotterycodeGenerato
 
 if(game.toUpperCase() === "FL") // if lottery type is FL then final power no is not included.
 {
-    console.log(" Here are you Fl Lottery numbers:"+ lotteryresult.toString() +  " " + "\nGood Luck");
+    console.log(" Here are you Fl Lottery numbers:"+ lotteryresult.toString() +  " " + "\n Good Luck");
 }
 else {
     console.log( " Here are your numbers:" + lotteryresult.toString() + " Your PowerBall is: " + powerballGenerator(p) + "\n Good Luck");
