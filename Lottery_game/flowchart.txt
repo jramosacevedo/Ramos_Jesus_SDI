@@ -1,0 +1,9 @@
+Please write flowchart using the below steps.I dont have tools to draw it.
+
+Steps:
+
+1.Validate the lottery which user want to play.If correct info then step 3 else step 2
+2.If incorrect lottery type then prompt user again and take it to step1.
+3.If lottery type is good then execute the code for the lottery type user entered.Go to either step 4 /5 depending upon the lottery type.
+4.If FL..Execute code for fl wihout using final power ball number
+5.If powerball..Execute the code for power along with final powerball.
