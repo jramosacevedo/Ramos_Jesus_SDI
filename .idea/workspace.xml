@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="026252e0-20d2-4ee9-b167-424e978ede1d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ramos_Jesus_Functions_Assignment./js/script.js" afterPath="$PROJECT_DIR$/Ramos_Jesus_Functions_Assignment./js/script.js" />
-    </list>
+    <list default="true" id="026252e0-20d2-4ee9-b167-424e978ede1d" name="Default" comment="" />
     <ignored path="Ramos_Jesus_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
