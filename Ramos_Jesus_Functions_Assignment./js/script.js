@@ -13,7 +13,7 @@ loop:            //label statement used with break/continue
                 field = "Florida_lottery"; //main/global variable for FL
                 n=53;                      //main/global variable for FL
                 break loop;
-            case "powerball":
+            case "PowerBall":
                 field = "Powerball_lottery";   // main/global variable for powerball
                 n=59;                          // main/global variable for powerball
                 break loop;
@@ -80,9 +80,9 @@ var lotteryresult = lotterycodeGenerator(n,field); //calling lotterycodeGenerato
 
 if(game.toUpperCase() === "FL") // if lottery type is FL then final power no is not included.
 {
-    console.log( game.toUpperCase() + " numbers:"+ lotteryresult.toString());
+    console.log(" Here are you Fl Lottery numbers:"+ lotteryresult.toString() +  " " + "\nGood Luck");
 }
 else {
-    console.log(game.toUpperCase() + " numbers:" + lotteryresult.toString() + " with PB " + powerballGenerator(p));
+    console.log( " Here are your numbers:" + lotteryresult.toString() + " Your PowerBall is: " + powerballGenerator(p) + "\n Good Luck");
 
 }
